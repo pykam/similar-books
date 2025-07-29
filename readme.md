@@ -1,7 +1,7 @@
-# Поиск по базе похожих книг
+# Search for similar books
 
-Простой способ найти похожие книги
+A simple way to find similar books
 
-tokenizer.py создает токены
-similarity.py на основе токенов ищет похожие книги
+tokenizer.py creates tokens
+similarity.py searches for similar books based on tokens
 
